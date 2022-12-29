@@ -9,6 +9,7 @@
   "author": "dmitrieva",
   "license": "ISC",
   "devDependencies": {
+    "@playwright/test": "^1.29.1",
     "eslint": "^8.30.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-standard": "^17.0.0",
